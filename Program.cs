@@ -19,7 +19,6 @@ while (true)
         if (ShowMenu() == MenuAction.Exit) break;
     }
 }
-//ShowMenu();
 
 int[] ArrayClear()
 {
